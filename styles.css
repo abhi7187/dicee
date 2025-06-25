@@ -40,3 +40,11 @@ footer {
   font-family: 'Indie Flower', cursive;
 
 }
+button {
+align-items: center;
+position: absolute;
+margin-left: 44%;
+font-size: 30px;
+border: #232931 solid 2px;
+border-radius: 20px;
+}
